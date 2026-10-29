@@ -6,7 +6,7 @@ Bonjour,
 
 Je m'intéresse à l'intelligence artificielle et je développe mes compétences en machine learning avec Python. Je crée aussi des agents IA avec n8n, et j'utilise l'IA comme outil de développement tout en consolidant mes bases en programmation.
 
-## 🔧 Compétences
+##  Compétences
 - Python
 - Machine learning (en apprentissage : NumPy, pandas, scikit-learn)
 - n8n (agents et automatisations IA)
@@ -19,5 +19,5 @@ Je m'intéresse à l'intelligence artificielle et je développe mes compétences
 Stage en intelligence artificielle / machine learning et apprentissage automatique
 
 ##  Contact
-- LinkedIn : (votre lien)
-- Mail : (votre adresse)
+- LinkedIn : (https://www.linkedin.com/in/lonceny-keita-460894237/)
+- Mail : (keitalonceny@outlook.fr)
