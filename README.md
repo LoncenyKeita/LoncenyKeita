@@ -1,5 +1,23 @@
-# Lonceny KEITA
-Bonjour 👋
-Je m'appelle Lonceny Keita, étudiant en M1 informatique, parcours Intelligence Artificielle et Apprentissage Automatique à Aix Marseille Université.
-Passionné par l'informatique et l'innovation, surtout l'intelligence et artificielle, récemment, j'ai commencé à amélioré mes compétences en apprentissage automatique (machine Learning) et la création des agents ia n8n, je fais un peu du vibecoding
+# Lonceny Keita
 
+Bonjour,
+
+Étudiant en M1 Informatique, parcours Intelligence Artificielle et Apprentissage Automatique, à Aix-Marseille Université.
+
+Je m'intéresse à l'intelligence artificielle et je développe mes compétences en machine learning avec Python. Je crée aussi des agents IA avec n8n, et j'utilise l'IA comme outil de développement tout en consolidant mes bases en programmation.
+
+## 🔧 Compétences
+- Python
+- Machine learning (en apprentissage : NumPy, pandas, scikit-learn)
+- n8n (agents et automatisations IA)
+
+##  Projets
+- À venir : analyse de données et modèle de prédiction avec scikit-learn
+- Agent IA n8n : (ajoutez ici une description d'un agent que vous avez réellement créé)
+
+##  Recherche
+Stage en intelligence artificielle / machine learning et apprentissage automatique
+
+##  Contact
+- LinkedIn : (votre lien)
+- Mail : (votre adresse)
