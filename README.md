@@ -13,7 +13,7 @@ Je m'intéresse à l'intelligence artificielle et je développe mes compétences
 - SQL
 
 ##  Projets
--Agent IA conversationnel (n8n) : répond aux questions sur les activités à Bali grâce au RAG, collecte les prospects dans    Google Sheets, crée les réservations dans Google Calendar et notifie l'équipe sur Slack.
+- Agent IA conversationnel (n8n) : répond aux questions sur les activités à Bali grâce au RAG, collecte les prospects dans    Google Sheets, crée les réservations dans Google Calendar et notifie l'équipe sur Slack.
 - Assistant de recherche d'emploi automatisé (n8n, en cours): automatisation avec OpenAI et Telegram.
 - À venir : analyse de données et modèle de prédiction avec scikit-learn.
 
