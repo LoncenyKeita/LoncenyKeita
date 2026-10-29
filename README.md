@@ -21,5 +21,5 @@ Je m'intéresse à l'intelligence artificielle et je développe mes compétences
 Stage en intelligence artificielle / machine learning
 
 ##  Contact
-- LinkedIn : [Lonceny KEITA] ([https://www.linkedin.com/in/lonceny-keita-460894237/](https://www.linkedin.com/in/lonceny-keita-460894237/))
+- LinkedIn : [Lonceny KEITA] (https://www.linkedin.com/in/lonceny-keita-460894237/)
 - Mail : keitalonceny111@gmail.com
